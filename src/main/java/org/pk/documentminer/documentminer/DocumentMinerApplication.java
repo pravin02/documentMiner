@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DocumentminerApplication {
+public class DocumentMinerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DocumentminerApplication.class, args);
+		SpringApplication.run(DocumentMinerApplication.class, args);
 	}
 
 }

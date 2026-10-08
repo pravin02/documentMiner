@@ -1,3 +1,7 @@
 spring:
   application:
-    name: documentminer
+    name: document-miner
+    description: Spring AI based application which loads documents into vector database and retrieves context to  communicate with LLM model to return response
+    version: 0.0.1
+  profiles:
+    active: dev
